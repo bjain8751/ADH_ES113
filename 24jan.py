@@ -80,13 +80,6 @@ class point:
         return (self.x+a2.x, self.y+a2.y)
 
 
-
-
-
-
-
-
-
 p2=point(2,3,"delhi")
 p1=point(1,2,"mumbai")
 
